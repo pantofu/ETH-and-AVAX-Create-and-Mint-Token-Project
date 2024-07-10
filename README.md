@@ -1,5 +1,5 @@
 # ETH-and-AVAX-Create-and-Mint-Token-Project
-This project showcases a creation of smart contract with ERC-20 tokens. This includes the Minting, Burning, and Transferring of tokens
+This project showcases the creation of a smart contract with ERC-20 tokens. This includes the Minting, Burning, and Transferring of tokens
 
 ## Description
 As required, it has the following: the mint, burn, and transfer functions, which comply with the conditions of the project, such as restricting the mint function to the owner only and any users having access to the burning or transferring of tokens.
@@ -17,7 +17,10 @@ As required, it has the following: the mint, burn, and transfer functions, which
 ![image](https://github.com/pantofu/ETH-and-AVAX-Create-and-Mint-Token-Project/assets/104056079/b1f251be-2899-45b5-9ae6-dfcf84c8e067)
 
 * Input the necessary details on their respective fields before you transact. Once deployed, you can see it under the Deployed/Unpinned Contracts.
-* Start playing with the values and see how minting, burning, and transfer work.  
+* Start playing with the values and see how minting, burning, and transfer work.
+* You can switch accounts by clicking on this section. The first account, by default, would be the owner. Switching to a different account shouldn't give you access to the mint function, only the burn and transfer.
+![image](https://github.com/pantofu/ETH-and-AVAX-Create-and-Mint-Token-Project/assets/104056079/6f4efa3c-e335-4c1e-8834-e7aa4011e705)
+  
 
 
 
